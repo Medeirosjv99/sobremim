@@ -1,5 +1,4 @@
 ### About Me:
-
 Opa, Prazer, eu sou o João Vitor, tenho 21 anos e sou do Brasil!!
 Profissional de Tecnologia da Informação com 21 anos e mais de 5 anos de experiência na área. Atualmente, atuo como Analista de Sistemas na empresa Raio de Luz Religiosos, sendo responsável pela manutenção e atualização de sistemas, redes e rotinas de backup, além de prestar suporte técnico e orientar sobre boas práticas e segurança digital.
 Iniciei minha carreira como técnico de informática, realizando manutenção de equipamentos, instalação de sistemas e suporte técnico. Essa base me proporcionou uma visão ampla das necessidades tecnológicas das empresas, contribuindo para uma atuação mais estratégica e integrada.
