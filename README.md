@@ -5,7 +5,7 @@ Iniciei minha carreira como técnico de informática, realizando manutenção de
 Atualmente, curso Sistemas para Internet no Instituto Federal do Paraná, onde aprofundo meus conhecimentos em programação, desenvolvimento de sistemas e arquitetura de software. Estou em constante busca por aprendizado e inovação, visando sempre oferecer soluções eficientes e atualizadas.
 
   ##
-
+  
 ### Meus conhecimentos:
 
  <div>
